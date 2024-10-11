@@ -1,1 +1,27 @@
-there are no results
+element name     weight   price         result
+Chlorine           0.07   0.082        10416.7
+Carbon              0.1   0.122        18003.3
+Magnesium           2.2    2.32        21739.1
+Nitrogen            0.1    0.14        32258.1
+Calcium             2.1    2.28        33457.2
+Hydrogen            1.2    1.39        52924.8
+Phosphorus          2.2    2.69        83191.9
+Sulfur            0.001  0.0926        83760.1
+Argon               0.7   0.931        87799.3
+Oxygen             0.01   0.154         123711
+Silicon             1.2     1.7         128205
+Boron               2.5    3.68         164345
+Sodium                2       3         166667
+Aluminum            1.1    1.79         177378
+Fluorine            1.2       2         190476
+Boron                 2    3.68         251497
+Potassium           3.7   12.85         521368
+Helium              3.8      24         701389
+Helium                3      24         750000
+Lithium             1.5    83.5         953488
+Lithium             1.2    83.5         960327
+Beryllium          13.8     857         967194
+Neon                3.5     240         967280
+Beryllium             4     857         989559
+Sum of weight fields: 53.181
+Sum of price fields: 2207.9

@@ -1,3 +1,4 @@
 ﻿  pp1.cpp
-C:\Users\nsilv\Desktop\pp\pp1\pp1.cpp(138,23): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
-  pp1.vcxproj -> C:\Users\nsilv\Desktop\pp\pp1\x64\Debug\pp1.exe
+C:\Users\nsilv\Desktop\parallel-programming\pp1\pp1.cpp(143,23): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  LINK : C:\Users\nsilv\Desktop\parallel-programming\pp1\x64\Debug\pp1.exe not found or not built by the last incremental link; performing full link
+  pp1.vcxproj -> C:\Users\nsilv\Desktop\parallel-programming\pp1\x64\Debug\pp1.exe

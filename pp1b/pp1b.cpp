@@ -14,7 +14,7 @@
 using namespace std;
 using json = nlohmann::json;
 
-string input = "IFF_2-1_KondrataviciusK_L1b_dat_3.json";
+string input = "IFF_2-1_KondrataviciusK_L1b_dat_1.json";
 string output = "IFF_2-1_KondrataviciusK_L1b_rez.txt";
 
 const int thcount = 16;

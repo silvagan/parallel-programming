@@ -13,7 +13,7 @@
 using namespace std;
 using json = nlohmann::json;
 
-string input = "IFF_2-1_KondrataviciusK_L1_dat_2.json";
+string input = "IFF_2-1_KondrataviciusK_L1_dat_1.json";
 string output = "IFF_2-1_KondrataviciusK_L1_rez.txt";
 
 const int dcount = 15;

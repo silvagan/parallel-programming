@@ -1,5 +1,5 @@
 [
-    {"elementName":"Hydrogen","weight":1.5,"price":1.39},
+    {"elementName":"Hydrogen","weight":1,"price":1.39},
     {"elementName":"Helium","weight":3.0,"price":24.0},
     {"elementName":"Lithium","weight":1.2,"price":83.5},
     {"elementName":"Beryllium","weight":13.8,"price":857.0},
